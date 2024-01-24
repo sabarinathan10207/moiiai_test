@@ -1,6 +1,6 @@
 import sys
 
-from moiiai_json_test.moiiai_json_test import fib
+from {{moiiaijson_test}}.{{moiiaijson_test}} import fib
 
 if __name__ == "__main__":
     n = int(sys.argv[1])
